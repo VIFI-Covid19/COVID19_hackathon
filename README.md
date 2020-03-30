@@ -1,7 +1,7 @@
 ## Project: COVID19 Hackathon
 ### Github Repo Link: https://github.com/pmaganty/COVID19_hackathon
 ### Heroku Link: https://morning-eyrie-07110.herokuapp.com/
-### Description: 
+### Description: This repository contains the basic back end code setup for this application.
 
 #### How to get project up and running on local machine:
 + Enter command "npm i" to grab all dependency libraries and generate node_modules folder
